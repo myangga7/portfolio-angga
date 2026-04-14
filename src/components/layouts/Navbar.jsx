@@ -40,8 +40,8 @@ const Navbar = () => {
             // className="text-2xl font-extrabold bg-linear-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"
           >
             <img
-              src="/public/images/logo.png"
-              alt="Logo Perusahaan"
+              src="https://res.cloudinary.com/dlruguhkq/image/upload/q_auto/f_auto/v1776168065/Logo_AN_hires_etkcfx.png"
+              alt="Logo Angga"
               className="h-12 w-auto"
             />
           </a>
