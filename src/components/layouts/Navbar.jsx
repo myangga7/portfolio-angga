@@ -37,9 +37,13 @@ const Navbar = () => {
           {/* Logo */}
           <a
             href="#"
-            className="text-2xl font-extrabold bg-linear-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"
+            // className="text-2xl font-extrabold bg-linear-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"
           >
-            AN
+            <img
+              src="/public/images/logo.png"
+              alt="Logo Perusahaan"
+              className="h-12 w-auto"
+            />
           </a>
 
           {/* Desktop Menu - EFEK GARIS NEON BERGERAK MEMUTARI */}
